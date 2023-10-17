@@ -17,3 +17,10 @@ dir
 ```
 linux, MacOs:
 ```sh
+ls
+```
+
+Удаление файла в Windows:
+```sh
+del <filename>
+```
