@@ -37,3 +37,7 @@ git checkout master
 ```sh
 git branch
 ```
+Создание новой ветки
+```sh
+git branch <имя_ветки>
+```
