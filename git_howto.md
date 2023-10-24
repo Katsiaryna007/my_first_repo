@@ -32,3 +32,8 @@ git checkout Имя ветки
 git checkout master
 ```
 *Команда возвращает в ветку Master*
+
+Отображение всех веток
+```sh
+git branch
+```
